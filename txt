@@ -1,0 +1,4 @@
+Build another end point redeem coupon which validates whether the customer entered coupon is valid or
+not and then redeems if usageLimit is not breached and triggers
+and email to the user that coupon has been successfully redeemed
+Create an user on boarding api also which takes the user email and stores it
